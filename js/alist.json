@@ -14,21 +14,6 @@
 }
 }
 },
-{
-"name": "小猫",
-"server": "https://nics.eu.org",
-"startPage": "/SP1",
-"showAll": false,
-"search": true,
-"params": {
-"/abc": {
-"password": "123"
-},
-"/abc/abc": {
-"password": "123"
-}
-}
-},
         {
         "name" : "🙋丫仙女",
         "server" : "http://alist.xiaoya.pro",
@@ -44,8 +29,8 @@
         "search" : true
     },
         {
-        "name" : "🐋一只鱼",
-        "server" : "https://alist.youte.ml",
+        "name" : "🐋神奇的小雅",
+        "server" : "http://60.204.211.26:5678",
         "startPage" : "/",
         "showAll" : false,
         "search" : true
