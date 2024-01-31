@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
+"spider":"./jar/fm.jar;md5;eb74b4e7f4228fa6b063bc9e04ecc751",
 "lives":[{"name":"糖糖直播","type":0,"url":"http://60.204.211.26:3000/txt/y_g.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://fongmi.cachefly.net/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
