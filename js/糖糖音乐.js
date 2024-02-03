@@ -6,7 +6,7 @@ var rule = {
     searchUrl:'/search?musicname=**',
     searchable:2,
     quickSearch:0,
-    class_parse:'#top_banner_bg div;a&&Text;a&&href;/djlist/(\\d+)_1.html',
+    class_parse:'#top_banner_bg div;a&&Text;a&&href;/music/(\\d+)_1.html',
     headers:{
         'User-Agent':'PC_UA'
     },
