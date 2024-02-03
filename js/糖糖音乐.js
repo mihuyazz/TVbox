@@ -1,8 +1,8 @@
 var rule = {
     title:'我的音乐',
-    host:'http://60.204.211.26:8081',
-    homeUrl:'/explore',//网站的首页链接,可以是完整路径或者相对路径,用于分类获取和推荐获取 fyclass是分类标签 fypage是页数
-    url:'/library',
+    host:'https://tool.liumingye.cn',
+    homeUrl:'/music/#/',//网站的首页链接,可以是完整路径或者相对路径,用于分类获取和推荐获取 fyclass是分类标签 fypage是页数
+    url:'/music/#/explore/artist',
     searchUrl:'/search?musicname=**',
     searchable:2,
     quickSearch:0,
