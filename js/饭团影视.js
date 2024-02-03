@@ -1,7 +1,7 @@
 var rule = {
     title:'饭团影视',
     模板:'首图2',
-    host:'https://www.fantuanhd.com',
+    host:'http://www.snef.org.cn',
     // url:'/show/id-fyclass/page/fypage.html',
     url:'/show/id-fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
