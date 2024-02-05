@@ -30,7 +30,7 @@
 "thunder_captchatoken":"",
 "yd_auth":"",
 "yd_thread_limit":4,
-"yd_flags":"4kz|auto",
+"yd_flags":"auto|4kz",
 "yd_danmu":true,
 "pikpak_username":"",
 "pikpak_password":"",
