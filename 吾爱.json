@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "春节",
-      "name": "🧡吾爱春节",
+      "name": "🧡吾爱电视 春节",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1204,6 +1204,5 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "欢迎入群详见公众号入群须知！接口完全免费，切勿付费购买。",
   "spider": "http://52pan.top:81/api/v3/file/get/170325/0928.jar?sign=HEawELyUvljhHCgfGefYOZ6DHvaGLMWouC0tIwMkd9E%3D%3A0;md5;02c40490ea14c433b66fcc0ce2f2ed94"
 }
