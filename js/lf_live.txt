@@ -6,8 +6,8 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 
-#糖糖看直播
-../list.txt
+#直播
+https://iptv.b2og.com/txt/y_g.txt
 #番茄•综合
 http://fanqie.gq/a/1701859592.txt
 #YanG•综合
