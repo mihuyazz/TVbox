@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg.jar;md5;60a0588e4507f3912f7457a13cdd6190",
+"spider":"./jar/pg.jar;md5;cb67fdc8cc37d49e41bf87be9a1e3201",
 "lives":[
 {"name":"肥猫~","type":0,"url":"http://我不是.肥猫.live/TV/tvzb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Yoursmile7","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},  
